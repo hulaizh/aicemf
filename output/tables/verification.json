@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "generated_date": "2026-10-31",
+  "cutoff": "2026-09-30",
+  "annual_rows": 25,
+  "source_rows": 30,
+  "checks": [
+    "25 annual rows: five fiscal years for each of five companies.",
+    "30 retained source periods, including each company's prior-year growth baseline.",
+    "Revenue and NetIncomeLoss match original 10-K accession, period end, USD unit and annual duration.",
+    "All selected fiscal-year end dates and filing dates are on or before 30 September 2026.",
+    "Every revenue-growth and net-margin value independently recomputed from retained USD inputs.",
+    "Latest-year revenue and net income for all five firms match separate structured income-statement extracts.",
+    "No missing revenue, growth or net-margin values in the 25-row annual table."
+  ]
+}

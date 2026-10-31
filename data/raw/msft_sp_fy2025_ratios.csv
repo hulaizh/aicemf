@@ -1,0 +1,39 @@
+company_id,company_name,ticker,fiscal_year,fiscal_quarter,period_type,period_end_date,filing_date,data_item_id,data_item_name,data_item_value,currency,unit_type,data_collection_type
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4030,Current Ratio,1.353446,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4030,Current Ratio,1.353446,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4034,Total Debt/Equity,32.661,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4034,Total Debt/Equity,32.661,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4047,EBITDA Margin %,55.5607,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4047,EBITDA Margin %,55.5607,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4053,EBIT Margin %,45.6219,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4053,EBIT Margin %,45.6219,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4074,Gross Profit Margin %,68.8237,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4074,Gross Profit Margin %,68.8237,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4094,Net Income Margin %,36.146,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4094,Net Income Margin %,36.146,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4121,Quick Ratio,1.222719,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4121,Quick Ratio,1.222719,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4128,Return On Equity %,33.2808,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4128,Return On Equity %,33.2808,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4177,Asset Turnover,0.498112,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4177,Asset Turnover,0.498112,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4178,Return on Assets,14.203,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4178,Return on Assets,14.203,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4186,Total Debt / Total Capital,24.6199,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4186,Total Debt / Total Capital,24.6199,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4188,Total Liabilities / Total Assets,44.5109,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4188,Total Liabilities / Total Assets,44.5109,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4194,"Total Revenues, 1 Yr. Growth %",14.9321,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4194,"Total Revenues, 1 Yr. Growth %",14.9321,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4195,"Gross Profit, 1 Yr. Growth %",13.3824,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4195,"Gross Profit, 1 Yr. Growth %",13.3824,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4196,"EBITDA, 1 Yr. Growth %",20.9336,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4196,"EBITDA, 1 Yr. Growth %",20.9336,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4197,"EBIT, 1 Yr. Growth %",17.449,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4197,"EBIT, 1 Yr. Growth %",17.449,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4199,"Net Income, 1 Yr. Growth %",15.5396,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4199,"Net Income, 1 Yr. Growth %",15.5396,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4203,"Total Assets, 1 Yr. Growth %",20.8605,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4203,"Total Assets, 1 Yr. Growth %",20.8605,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT,2025,4,Annual,2025-06-30,2026-07-29,4363,Return on Total Capital,19.5452,USD,Actual,Ratio
+21835,Microsoft Corporation,MSFT.PRA,2025,4,Annual,2025-06-30,2026-07-29,4363,Return on Total Capital,19.5452,USD,Actual,Ratio

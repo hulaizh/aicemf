@@ -1,0 +1,96 @@
+company_id,company_name,ticker,fiscal_year,fiscal_quarter,period_type,period_end_date,filing_date,data_item_id,data_item_name,data_item_value,currency,unit_type,data_collection_type
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4030,Current Ratio,2.005333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4030,Current Ratio,2.005333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4030,Current Ratio,2.005333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4030,Current Ratio,2.005333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4030,Current Ratio,2.005333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4034,Total Debt/Equity,16.1333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4034,Total Debt/Equity,16.1333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4034,Total Debt/Equity,16.1333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4034,Total Debt/Equity,16.1333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4034,Total Debt/Equity,16.1333,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4047,EBITDA Margin %,37.2794,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4047,EBITDA Margin %,37.2794,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4047,EBITDA Margin %,37.2794,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4047,EBITDA Margin %,37.2794,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4047,EBITDA Margin %,37.2794,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4053,EBIT Margin %,32.0326,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4053,EBIT Margin %,32.0326,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4053,EBIT Margin %,32.0326,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4053,EBIT Margin %,32.0326,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4053,EBIT Margin %,32.0326,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4074,Gross Profit Margin %,59.6523,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4074,Gross Profit Margin %,59.6523,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4074,Gross Profit Margin %,59.6523,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4074,Gross Profit Margin %,59.6523,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4074,Gross Profit Margin %,59.6523,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4094,Net Income Margin %,32.8098,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4094,Net Income Margin %,32.8098,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4094,Net Income Margin %,32.8098,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4094,Net Income Margin %,32.8098,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4094,Net Income Margin %,32.8098,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4121,Quick Ratio,1.8466,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4121,Quick Ratio,1.8466,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4121,Quick Ratio,1.8466,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4121,Quick Ratio,1.8466,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4121,Quick Ratio,1.8466,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4128,Return On Equity %,35.7047,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4128,Return On Equity %,35.7047,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4128,Return On Equity %,35.7047,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4128,Return On Equity %,35.7047,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4128,Return On Equity %,35.7047,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4177,Asset Turnover,0.770582,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4177,Asset Turnover,0.770582,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4177,Asset Turnover,0.770582,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4177,Asset Turnover,0.770582,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4177,Asset Turnover,0.770582,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4178,Return on Assets,15.4273,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4178,Return on Assets,15.4273,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4178,Return on Assets,15.4273,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4178,Return on Assets,15.4273,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4178,Return on Assets,15.4273,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4186,Total Debt / Total Capital,13.892,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4186,Total Debt / Total Capital,13.892,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4186,Total Debt / Total Capital,13.892,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4186,Total Debt / Total Capital,13.892,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4186,Total Debt / Total Capital,13.892,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4188,Total Liabilities / Total Assets,30.2405,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4188,Total Liabilities / Total Assets,30.2405,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4188,Total Liabilities / Total Assets,30.2405,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4188,Total Liabilities / Total Assets,30.2405,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4188,Total Liabilities / Total Assets,30.2405,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4194,"Total Revenues, 1 Yr. Growth %",15.09,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4194,"Total Revenues, 1 Yr. Growth %",15.09,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4194,"Total Revenues, 1 Yr. Growth %",15.09,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4194,"Total Revenues, 1 Yr. Growth %",15.09,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4194,"Total Revenues, 1 Yr. Growth %",15.09,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4195,"Gross Profit, 1 Yr. Growth %",17.9611,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4195,"Gross Profit, 1 Yr. Growth %",17.9611,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4195,"Gross Profit, 1 Yr. Growth %",17.9611,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4195,"Gross Profit, 1 Yr. Growth %",17.9611,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4195,"Gross Profit, 1 Yr. Growth %",17.9611,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4196,"EBITDA, 1 Yr. Growth %",17.5989,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4196,"EBITDA, 1 Yr. Growth %",17.5989,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4196,"EBITDA, 1 Yr. Growth %",17.5989,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4196,"EBITDA, 1 Yr. Growth %",17.5989,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4196,"EBITDA, 1 Yr. Growth %",17.5989,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4197,"EBIT, 1 Yr. Growth %",14.8135,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4197,"EBIT, 1 Yr. Growth %",14.8135,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4197,"EBIT, 1 Yr. Growth %",14.8135,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4197,"EBIT, 1 Yr. Growth %",14.8135,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4197,"EBIT, 1 Yr. Growth %",14.8135,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4199,"Net Income, 1 Yr. Growth %",32.0142,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4199,"Net Income, 1 Yr. Growth %",32.0142,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4199,"Net Income, 1 Yr. Growth %",32.0142,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4199,"Net Income, 1 Yr. Growth %",32.0142,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4199,"Net Income, 1 Yr. Growth %",32.0142,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4203,"Total Assets, 1 Yr. Growth %",32.2094,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4203,"Total Assets, 1 Yr. Growth %",32.2094,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4203,"Total Assets, 1 Yr. Growth %",32.2094,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4203,"Total Assets, 1 Yr. Growth %",32.2094,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4203,"Total Assets, 1 Yr. Growth %",32.2094,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.M,2025,4,Annual,2025-12-31,2026-02-05,4363,Return on Total Capital,19.253,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG.N,2025,4,Annual,2025-12-31,2026-02-05,4363,Return on Total Capital,19.253,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOA.V,2025,4,Annual,2025-12-31,2026-02-05,4363,Return on Total Capital,19.253,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOG,2025,4,Annual,2025-12-31,2026-02-05,4363,Return on Total Capital,19.253,USD,Actual,Ratio
+29096,Alphabet Inc.,GOOGL,2025,4,Annual,2025-12-31,2026-02-05,4363,Return on Total Capital,19.253,USD,Actual,Ratio

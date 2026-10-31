@@ -1,0 +1,20 @@
+company_id,company_name,ticker,fiscal_year,fiscal_quarter,period_type,period_end_date,filing_date,data_item_id,data_item_name,data_item_value,currency,unit_type,data_collection_type
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4030,Current Ratio,0.893292,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4034,Total Debt/Equity,152.4107,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4047,EBITDA Margin %,34.7817,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4053,EBIT Margin %,31.9707,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4074,Gross Profit Margin %,46.9051,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4094,Net Income Margin %,26.915,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4121,Quick Ratio,0.770713,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4128,Return On Equity %,171.4224,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4177,Asset Turnover,1.149265,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4178,Return on Assets,22.9643,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4186,Total Debt / Total Capital,60.382,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4188,Total Liabilities / Total Assets,79.4753,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4194,"Total Revenues, 1 Yr. Growth %",6.4255,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4195,"Gross Profit, 1 Yr. Growth %",8.035,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4196,"EBITDA, 1 Yr. Growth %",7.4906,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4197,"EBIT, 1 Yr. Growth %",7.9811,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4199,"Net Income, 1 Yr. Growth %",19.4951,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4203,"Total Assets, 1 Yr. Growth %",-1.5725,USD,Actual,Ratio
+24937,Apple Inc.,AAPL,2025,4,Annual,2025-09-27,2025-10-31,4363,Return on Total Capital,45.9275,USD,Actual,Ratio

@@ -1,0 +1,9 @@
+accession,cik,form_type,filing_date,report_date,fiscal_year,fiscal_period,sec_url,xbrl_available,primary_document
+0001193125-26-323660,789019,10-K,2026-07-29,2026-06-30,2026,FY,https://www.sec.gov/Archives/edgar/data/789019/0001193125-26-323660-index.html,True,
+0000950170-25-100235,789019,10-K,2025-07-30,2025-06-30,2025,FY,https://www.sec.gov/Archives/edgar/data/789019/0000950170-25-100235-index.html,True,msft-20250630.htm
+0000950170-24-087843,789019,10-K,2024-07-30,2024-06-30,2024,FY,https://www.sec.gov/Archives/edgar/data/789019/0000950170-24-087843-index.html,True,msft-20240630.htm
+0000950170-23-035122,789019,10-K,2023-07-27,2023-06-30,2023,FY,https://www.sec.gov/Archives/edgar/data/789019/0000950170-23-035122-index.html,True,msft-20230630.htm
+0001564590-22-026876,789019,10-K,2022-07-28,2022-06-30,2022,FY,https://www.sec.gov/Archives/edgar/data/789019/0001564590-22-026876-index.html,True,msft-10k_20220630.htm
+0001564590-21-039151,789019,10-K,2021-07-29,2021-06-30,2021,FY,https://www.sec.gov/Archives/edgar/data/789019/0001564590-21-039151-index.html,True,msft-10k_20210630.htm
+0001564590-20-034944,789019,10-K,2020-07-30,2020-06-30,2020,FY,https://www.sec.gov/Archives/edgar/data/789019/0001564590-20-034944-index.html,True,msft-10k_20200630.htm
+0001564590-19-027952,789019,10-K,2019-08-01,2019-06-30,2019,FY,https://www.sec.gov/Archives/edgar/data/789019/0001564590-19-027952-index.html,True,msft-10k_20190630.htm

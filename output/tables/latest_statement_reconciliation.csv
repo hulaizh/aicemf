@@ -1,0 +1,6 @@
+ticker,fiscal_year,fiscal_year_end,accession,revenue_usd,net_income_usd,revenue_statement_match,net_income_statement_match,statement_source_file,sec_url
+AAPL,2025,2025-09-27,0000320193-25-000079,416161000000,112010000000,True,True,data/raw/sec_edgar/AAPL_income_statement_latest.csv,https://www.sec.gov/Archives/edgar/data/320193/0000320193-25-000079-index.html
+MSFT,2026,2026-06-30,0001193125-26-323660,331839000000,133749000000,True,True,data/raw/sec_edgar/MSFT_income_statement_latest.csv,https://www.sec.gov/Archives/edgar/data/789019/0001193125-26-323660-index.html
+NVDA,2026,2026-01-25,0001045810-26-000021,215938000000,120067000000,True,True,data/raw/sec_edgar/NVDA_income_statement_latest.csv,https://www.sec.gov/Archives/edgar/data/1045810/0001045810-26-000021-index.html
+GOOGL,2025,2025-12-31,0001652044-26-000018,402836000000,132170000000,True,True,data/raw/sec_edgar/GOOGL_income_statement_latest.csv,https://www.sec.gov/Archives/edgar/data/1652044/0001652044-26-000018-index.html
+AMZN,2025,2025-12-31,0001018724-26-000004,716924000000,77670000000,True,True,data/raw/sec_edgar/AMZN_income_statement_latest.csv,https://www.sec.gov/Archives/edgar/data/1018724/0001018724-26-000004-index.html
